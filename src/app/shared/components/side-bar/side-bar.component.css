@@ -45,3 +45,7 @@
     padding: .25rem 0;
 }
 
+.side-bar__list li{
+    cursor: pointer;
+}
+
